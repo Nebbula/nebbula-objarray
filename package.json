@@ -1,0 +1,23 @@
+{
+  "name": "nebbula-objarray",
+  "version": "1.0.0",
+  "description": "Nebbula Objarray module",
+  "main": "src/main.js",
+  "directories": {
+  	"lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Nebbula/nebbula-objarray.git"
+  },
+  "keywords": [
+    "array",
+    "object",
+    "nebbula"
+  ],
+  "author": "Giovanny Andres Gongora Granada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nebbula/nebbula-objarray/issues"
+  }
+}
